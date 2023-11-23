@@ -24,10 +24,12 @@ header{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    
 }
 
 .home__header__barraDeBusquedad input{
     width: 90%;
+    border-radius: 15px;
 }
 
 .fa-magnifying-glass{
